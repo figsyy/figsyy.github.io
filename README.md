@@ -1,3 +1,3 @@
 # Figsyy
 
-This is the website. This is a language called _Markdown_.
+This is a language called [_Markdown_](https://www.markdownguide.org/cheat-sheet/).
